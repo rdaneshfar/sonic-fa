@@ -1,0 +1,6 @@
+{
+  "name": "آواگردان | Persian Text-to-Speech & Sound Director Studio",
+  "description": "استودیوی متن‌به‌گفتار فارسی کاملاً رایگان و آفلاین همراه با موسیقی متن بدون حق تکثیر و جلوه‌های صوتی کارگردانی صدا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
